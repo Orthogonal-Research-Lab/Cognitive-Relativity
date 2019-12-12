@@ -16,4 +16,4 @@ For super-predators, planning reveals paths to access UHF samples.
 
 Tradeoff between sampling rate (low) and planning ability (high). Relativity is where this tradeoff breaks down, in the presence of UHF stimuli.
 
-In precursor blog post, one mechanism is the animation bottleneck (early attentional selection related).
+In precursor blog post (["Perceptual Time and the Evolution of Informational Investment"](https://syntheticdaisies.blogspot.com/2013/09/perceptual-time-and-evolution-of.html)), one mechanism is the animation bottleneck (related to early attentional selection). The bottleneck refers to the ability to process UHF stimuli without the proper physiology (insect eyes versus human eyes, or technologically-driven high-frequency stimuli).
